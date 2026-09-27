@@ -1,0 +1,18 @@
+02_Working_Copy/EV-001_phishing_email.eml: Win.Trojan.Suspect-34 FOUND
+02_Working_Copy/EV-001_phishing_email.eml: Win.Trojan.Suspect-34 FOUND
+02_Working_Copy/EV-001_phishing_email.eml: Eicar-Test-Signature FOUND
+02_Working_Copy/EV-001_phishing_email.eml: Eicar-Test-Signature FOUND
+02_Working_Copy/EV-001_phishing_email.eml: Eicar-Signature FOUND
+02_Working_Copy/EV-001_phishing_email.eml!MAIL:Invoice_INV_2026_0914.zip!(2)ZIP:Invoice_Helper.dll: Eicar-Signature FOUND
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3628083
+Engine version: 1.4.6
+Scanned directories: 0
+Scanned files: 1
+Infected files: 1
+Data scanned: 0.52 MB
+Data read: 0.14 MB (ratio 3.77:1)
+Time: 8.636 sec (0 m 8 s)
+Start Date: 2026:09:26 12:07:17
+End Date:   2026:09:26 12:07:25

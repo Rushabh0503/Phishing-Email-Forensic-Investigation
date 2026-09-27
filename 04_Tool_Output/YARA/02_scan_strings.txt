@@ -1,0 +1,11 @@
+Nimbus_Phish_Campaign_INV20260914 02_Working_Copy/EV-003_extracted/Invoice_INV-2026-0914.pdf.exe
+0x8400:$invoice_ref: INV-2026-0914
+0x8417:$lookalike: orion-supplies-invoices.example
+0x843e:$builder_tag: NimbusInvoiceViewer
+Windows_PE_Executable_Artifact 02_Working_Copy/EV-003_extracted/Invoice_INV-2026-0914.pdf.exe
+0x0:$mz: 4D 5A
+0x80:$pe: PE
+0x1a12:$pe: PE
+0x1b4a:$pe: PE
+0x1c9b:$pe: PE
+0x55c8:$pe: PE

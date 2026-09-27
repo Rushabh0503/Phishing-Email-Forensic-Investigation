@@ -1,0 +1,15 @@
+nth vaddr       bind type lib          name
+―――――――――――――――――――――――――――――――――――――――――――
+1   0x14000e1d8 NONE FUNC KERNEL32.dll DeleteCriticalSection
+2   0x14000e1e0 NONE FUNC KERNEL32.dll EnterCriticalSection
+3   0x14000e1e8 NONE FUNC KERNEL32.dll GetCPInfo
+4   0x14000e1f0 NONE FUNC KERNEL32.dll GetLastError
+5   0x14000e1f8 NONE FUNC KERNEL32.dll GetModuleHandleA
+6   0x14000e200 NONE FUNC KERNEL32.dll GetProcAddress
+7   0x14000e208 NONE FUNC KERNEL32.dll InitializeCriticalSection
+8   0x14000e210 NONE FUNC KERNEL32.dll LeaveCriticalSection
+9   0x14000e218 NONE FUNC KERNEL32.dll MultiByteToWideChar
+10  0x14000e220 NONE FUNC KERNEL32.dll SetUnhandledExceptionFilter
+11  0x14000e228 NONE FUNC KERNEL32.dll Sleep
+12  0x14000e230 NONE FUNC KERNEL32.dll TlsGetValue
+13  0x14000e238 NONE FUNC KERNEL32.dll VirtualProtect

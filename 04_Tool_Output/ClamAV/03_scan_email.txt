@@ -1,0 +1,13 @@
+02_Working_Copy/EV-001_phishing_email.eml: Win.Trojan.Suspect-34 FOUND
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3628083
+Engine version: 1.4.6
+Scanned directories: 0
+Scanned files: 1
+Infected files: 1
+Data scanned: 0.00 MB
+Data read: 0.14 MB (ratio 0.00:1)
+Time: 10.584 sec (0 m 10 s)
+Start Date: 2026:09:26 11:56:36
+End Date:   2026:09:26 11:56:46

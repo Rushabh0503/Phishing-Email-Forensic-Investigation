@@ -1,0 +1,13 @@
+02_Working_Copy/EV-001_phishing_email.eml: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3628083
+Engine version: 1.4.6
+Scanned directories: 0
+Scanned files: 1
+Infected files: 0
+Data scanned: 0.14 MB
+Data read: 0.14 MB (ratio 1.06:1)
+Time: 10.325 sec (0 m 10 s)
+Start Date: 2026:09:26 11:56:55
+End Date:   2026:09:26 11:57:05

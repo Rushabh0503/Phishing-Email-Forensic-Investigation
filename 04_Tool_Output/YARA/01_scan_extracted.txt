@@ -1,0 +1,3 @@
+Nimbus_Phish_Campaign_INV20260914 02_Working_Copy/EV-003_extracted//Invoice_INV-2026-0914.pdf.exe
+Windows_PE_Executable_Artifact 02_Working_Copy/EV-003_extracted//Invoice_INV-2026-0914.pdf.exe
+EICAR_Test_File_Present 02_Working_Copy/EV-003_extracted//Invoice_Helper.dll

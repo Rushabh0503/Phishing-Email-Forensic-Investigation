@@ -1,0 +1,18 @@
+02_Working_Copy/EV-002_Invoice_INV-2026-0914.zip: Win.Trojan.Suspect-34 FOUND
+02_Working_Copy/EV-002_Invoice_INV-2026-0914.zip: Win.Trojan.Suspect-34 FOUND
+02_Working_Copy/EV-002_Invoice_INV-2026-0914.zip: Eicar-Test-Signature FOUND
+02_Working_Copy/EV-002_Invoice_INV-2026-0914.zip: Eicar-Test-Signature FOUND
+02_Working_Copy/EV-002_Invoice_INV-2026-0914.zip: Eicar-Signature FOUND
+02_Working_Copy/EV-002_Invoice_INV-2026-0914.zip!(1)ZIP:Invoice_Helper.dll: Win.Trojan.Suspect-34 FOUND
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3628083
+Engine version: 1.4.6
+Scanned directories: 0
+Scanned files: 1
+Infected files: 1
+Data scanned: 0.37 MB
+Data read: 0.10 MB (ratio 3.65:1)
+Time: 9.265 sec (0 m 9 s)
+Start Date: 2026:09:26 12:07:08
+End Date:   2026:09:26 12:07:17

@@ -1,0 +1,80 @@
+nth paddr      vaddr       len size section type    string
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+0   0x00008400 0x14000a000 13  14   .rdata  ascii   INV-2026-0914
+1   0x00008410 0x14000a010 45  46   .rdata  ascii   hxxp://orion-supplies-invoices.example/update
+2   0x0000843e 0x14000a03e 23  24   .rdata  ascii   NimbusInvoiceViewer/1.0
+3   0x00008458 0x14000a058 43  44   .rdata  ascii   Invoice viewer could not open %s (%s) [%s]\n
+4   0x00008500 0x14000a100 30  31   .rdata  ascii   Argument domain error (DOMAIN)
+5   0x0000851f 0x14000a11f 27  28   .rdata  ascii   Argument singularity (SIGN)
+6   0x00008540 0x14000a140 31  32   .rdata  ascii   Overflow range error (OVERFLOW)
+7   0x00008560 0x14000a160 36  37   .rdata  ascii   Partial loss of significance (PLOSS)
+8   0x00008588 0x14000a188 34  35   .rdata  ascii   Total loss of significance (TLOSS)
+9   0x000085b0 0x14000a1b0 53  54   .rdata  ascii   The result is too small to be represented (UNDERFLOW)
+10  0x000085e6 0x14000a1e6 13  14   .rdata  ascii   Unknown error
+11  0x000085f8 0x14000a1f8 42  43   .rdata  ascii   _matherr(): %s in %s(%g, %g)  (retval=%g)\n
+12  0x00008640 0x14000a240 27  28   .rdata  ascii   Mingw-w64 runtime failure:\n
+13  0x00008660 0x14000a260 31  32   .rdata  ascii   Address %p has no image-section
+14  0x00008680 0x14000a280 48  49   .rdata  ascii     VirtualQuery failed for %d bytes at address %p
+15  0x000086b8 0x14000a2b8 38  39   .rdata  ascii     VirtualProtect failed with code 0x%x
+16  0x000086e0 0x14000a2e0 49  50   .rdata  ascii     Unknown pseudo relocation protocol version %d.\n
+17  0x00008718 0x14000a318 41  42   .rdata  ascii     Unknown pseudo relocation bit size %d.\n
+18  0x00008748 0x14000a348 82  83   .rdata  ascii   %d bit pseudo relocation at %p out of range, targeting %p, yielding the value %p.\n
+19  0x000087f0 0x14000a3f0 6   7    .rdata  ascii   (null)
+20  0x000087f8 0x14000a3f8 6   14   .rdata  utf16le (null)
+21  0x00008980 0x14000a580 8   9    .rdata  ascii   Infinity
+22  0x00008997 0x14000a597 5   6    .rdata  ascii   ?aCoc
+23  0x000089b7 0x14000a5b7 5   6    .rdata  ascii   <2ZGU
+24  0x00008a9c 0x14000a69c 4   5    .rdata  ascii   vH7B
+25  0x00008acc 0x14000a6cc 4   5    .rdata  ascii   W4vC
+26  0x00008ad2 0x14000a6d2 5   7    .rdata  utf8    NgmkC
+27  0x00008b1e 0x14000a71e 4   5    .rdata  ascii   [%Co
+28  0x00008b55 0x14000a755 4   5    .rdata  ascii   O8M2
+29  0x00008b80 0x14000a780 12  13   .rdata  ascii   kernel32.dll
+30  0x00008b8d 0x14000a78d 16  17   .rdata  ascii   IsDBCSLeadByteEx
+31  0x00008d70 0x14000a970 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+32  0x00008d90 0x14000a990 19  20   .rdata  ascii   GCC: (GNU) 16-win32
+33  0x00008db0 0x14000a9b0 19  20   .rdata  ascii   GCC: (GNU) 16-win32
+34  0x00008dd0 0x14000a9d0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+35  0x00008df0 0x14000a9f0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+36  0x00008e10 0x14000aa10 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+37  0x00008e30 0x14000aa30 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+38  0x00008e50 0x14000aa50 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+39  0x00008e70 0x14000aa70 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+40  0x00008e90 0x14000aa90 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+41  0x00008eb0 0x14000aab0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+42  0x00008ed0 0x14000aad0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+43  0x00008ef0 0x14000aaf0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+44  0x00008f10 0x14000ab10 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+45  0x00008f30 0x14000ab30 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+46  0x00008f50 0x14000ab50 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+47  0x00008f70 0x14000ab70 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+48  0x00008f90 0x14000ab90 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+49  0x00008fb0 0x14000abb0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+50  0x00008fd0 0x14000abd0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+51  0x00008ff0 0x14000abf0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+52  0x00009010 0x14000ac10 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+53  0x00009030 0x14000ac30 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+54  0x00009050 0x14000ac50 19  20   .rdata  ascii   GCC: (GNU) 16-win32
+55  0x00009070 0x14000ac70 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+56  0x00009090 0x14000ac90 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+57  0x000090b0 0x14000acb0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+58  0x000090d0 0x14000acd0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+59  0x000090f0 0x14000acf0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+60  0x00009110 0x14000ad10 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+61  0x00009130 0x14000ad30 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+62  0x00009150 0x14000ad50 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+63  0x00009170 0x14000ad70 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+64  0x00009190 0x14000ad90 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+65  0x000091b0 0x14000adb0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+66  0x000091d0 0x14000add0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+67  0x000091f0 0x14000adf0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+68  0x00009210 0x14000ae10 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+69  0x00009230 0x14000ae30 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+70  0x00009250 0x14000ae50 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+71  0x00009270 0x14000ae70 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+72  0x00009290 0x14000ae90 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+73  0x000092b0 0x14000aeb0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+74  0x000092d0 0x14000aed0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+75  0x000092f0 0x14000aef0 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+76  0x00009310 0x14000af10 19  20   .rdata  ascii   GCC: (GNU) 15-win32
+77  0x00009330 0x14000af30 19  20   .rdata  ascii   GCC: (GNU) 16-win32
